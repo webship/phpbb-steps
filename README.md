@@ -48,7 +48,7 @@ assertions that must fail; see [The test site](#the-test-site) and
 
 ## From nothing to a green run
 
-What the machine needs: Docker, [DDEV](https://ddev.com), git, Python 3, and Node.js 20 or later with npm. The board
+What the machine needs: Docker, [DDEV](https://ddev.com), git, Python 3, and Node.js 24 or later with npm. The board
 is installed and run in its containers, with the PHP of its web image: no PHP on the machine, no public domain and no
 account anywhere.
 
@@ -256,7 +256,7 @@ feeds, the contact page, and everything the administration control panel changes
 
 ## Requirements
 
-- Node.js 20 or later
+- Node.js 24 or later
 - A webship-js 2.0 test project (webship-js 2.0.16 or later)
 - A phpBB 3.3 board with its default style in British English, its accounts for the suite, and a mail catcher for
   the mail steps
