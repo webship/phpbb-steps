@@ -1,6 +1,6 @@
 {
   "name": "@webship-js/phpbb-steps",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Cucumber step definitions for phpBB boards, a plugin for webship-js (Playwright and Cucumber): the board index, forums and topics, posting (a new topic, a reply, a quote, the preview, an edit, attachments, drafts, the quick reply), polls, bookmarks and subscriptions, private messages, search, the user control panel (profile, preferences, signature), the moderator control panel (the approval queue, reports, lock, move, split, delete), the administration control panel (read only), login, logout, the password reset and the refusals of the registration form.",
   "main": "tests/step-definitions/phpbb-session.steps.js",
   "files": [
